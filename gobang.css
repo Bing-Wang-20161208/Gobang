@@ -1,0 +1,17 @@
+.container {
+  width: 600px;
+  height: 600px;
+  margin: 30px auto;
+  border: 1px #FFF solid;
+  background: url(img/bak.jpg);
+}
+.text {
+  width: 30px;
+  height: 90px;
+  font-size: 30px;
+  font-weight: bold;
+  color: red;
+  position: absolute;
+  top: 40%;
+  left: 10%;
+}
